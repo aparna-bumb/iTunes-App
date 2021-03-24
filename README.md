@@ -1,3 +1,10 @@
+<h1>iTunes-App </h1>
+
+This is a simple web-app that connects to the iTunes connect API to retrieve songs for a search term.
+
+<br> <br>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
